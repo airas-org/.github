@@ -1,6 +1,6 @@
 ##  Welcome to the AIRAS！！ 👋
 
-![airas image](../images/airas_long.png)
+<img src="../images/airas_long.png" alt="airas image" width="300"/>
 
 <!--
 
